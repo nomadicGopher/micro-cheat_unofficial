@@ -7,7 +7,7 @@
   "Versions": [
     {
       "Version": "0.0.5",
-      "Url": "",
+      "Url": "https://github.com/nomadicGopher/micro-cheat/archive/v0.0.5.zip",
       "Require": {
         "micro": ">=2.0.0"
       }
