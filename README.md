@@ -14,7 +14,7 @@ For your convenience, micro-cheat also provides a command 'cheat' that you can b
 <details>
         <summary><b>Tested with...</b></summary>
 	<ul>
-            	<li>Python</li>
+		<li>Python</li>
 		<li>Go (Golang)</li>
 		<li>Lua</li>
 		<li>Javascript</li>
