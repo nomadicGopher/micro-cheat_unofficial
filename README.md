@@ -34,14 +34,11 @@ Micro-cheat also provides a command 'cheat' that you can bind to any key or run 
 
 ## Installation
 
- $ cd $HOME/.config/micro/plug/
-	$ git clone https://github.com/nomadicGopher/micro-cheat
+$ cd $HOME/.config/micro/plug/  
+$ git clone https://github.com/nomadicGopher/micro-cheat
 
-## Licenses
+## Original Licenses
 
 Cheatsheets are from https://devhints.io project, copyright (c) 2021 Rico Sta. Cruz and contributors, received under MIT license.
 
 Micro-cheat plugin is Copyright 2022-2024 Tero Karvinen https://TeroKarvinen.com, MIT license.
-
-Forked by [GitHub.com/nomadicGopher](https://github.com/nomadicGopher/micro-cheat), MIT license.
-- Includes bug fixes & README enhancements (6/2025)
