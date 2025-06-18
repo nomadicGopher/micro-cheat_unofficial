@@ -4,15 +4,12 @@ A plugin for the [Micro](https://github.com/zyedidia/micro) terminal based edito
 
 ## Usage
 
-Edit a source code file with micro. Press **Cmd + F1**. 
+Edit a source code file with Micro. Press **cmd-F1** for a cheatsheet of the language to open. Press ctrl-Q to escape back to your source file.
 
-A cheatsheet for the language opens. If you're editing Python, it's a Python cheatsheet. If Go, then Go cheatsheet.
-Press Ctrl-Q to close the cheatsheet tab and return to editing. 
-
-For your convenience, micro-cheat also provides a command 'cheat' that you can bind to any key or run with ctrl-E. 
+Micro-cheat also provides a command 'cheat' that you can bind to any key or run with ctrl-E. 
 
 <details>
-        <summary><b>Tested with...</b></summary>
+        <summary><b>Supported languages...</b></summary>
 	<ul>
 		<li>Python</li>
 		<li>Go (Golang)</li>
@@ -35,30 +32,12 @@ For your convenience, micro-cheat also provides a command 'cheat' that you can b
 
 ## Installation
 
-Micro-cheat is now part of official Micro plugin-channel.
-
-	$ micro --plugin install cheat
- 
- 	or
-  
-  	With the Micro editor open:
-   		Ctrl + e
-     	> plugin install cheat
-
-Alternatively, a development install
+This is an unofficial version of the plugin, therefor to install you must:
 
 	$ cd $HOME/.config/micro/plug/
 	$ git clone https://github.com/nomadicGopher/micro-cheat
 
-## Limitations
-
-All cheatsheets included in cheatsheets/ directory are not supported yet. Micro-cheat has only been tested on Linux. 
-
-## Todo
-
-* Bibtex references cheatsheet. Should be MIT licensed to be included in this plugin. 
-
-## Adminstrivia
+## Licenses
 
 Cheatsheets are from https://devhints.io project, copyright (c) 2021 Rico Sta. Cruz and contributors, received under MIT license.
 
