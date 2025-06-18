@@ -1,6 +1,8 @@
-# micro-cheat
+# micro-cheat (Unofficial)
 
 A plugin for the [Micro](https://github.com/zyedidia/micro) terminal based editor to provide a markdown cheatsheet for the language you're editing.
+
+_This unofficial version contains bug fixes that were left unresolved/unpublished by the original source for over a year despite PRs being open._
 
 ## Usage
 
@@ -12,19 +14,19 @@ Micro-cheat also provides a command 'cheat' that you can bind to any key or run 
         <summary><b>Supported languages...</b></summary>
 	<ul>
 		<li>Python</li>
-		<li>Go (Golang)</li>
+		<li>Go</li>
 		<li>Lua</li>
 		<li>Javascript</li>
-		<li>CSS (cascading style sheets)</li>
+		<li>CSS</li>
 		<li>HTML</li>
-		<li>HAML (HTML abstraction markup language)</li>
+		<li>HAML</li>
 		<li>Vagrantfile (by filename)</li>
 		<li>Dockerfile (by filename)</li>
 		<li>Makefile</li>
-		<li>JavaScript (ECMAScript)</li>
+		<li>JavaScript (ES6)</li>
 		<li>TypeScript</li>
-		<li>YAML (yet another markup language)</li>
-		<li>BASH (shell)</li>
+		<li>YAML</li>
+		<li>BASH</li>
 		<li>MarkDown</li>
 		<li>SASS (by suffix)</li>
         </ul>
@@ -32,9 +34,7 @@ Micro-cheat also provides a command 'cheat' that you can bind to any key or run 
 
 ## Installation
 
-This is an unofficial version of the plugin, therefor to install you must:
-
-	$ cd $HOME/.config/micro/plug/
+ $ cd $HOME/.config/micro/plug/
 	$ git clone https://github.com/nomadicGopher/micro-cheat
 
 ## Licenses
