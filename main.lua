@@ -1,5 +1,4 @@
 -- micro-cheat copyright 2022 Tero Karvinen https://TeroKarvinen.com
--- Forked by GitHub.com/nomadicGopher, MIT license.
 
 -- Cheatsheets are copyrighted by their original authors
 
