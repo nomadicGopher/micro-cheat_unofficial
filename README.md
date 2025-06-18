@@ -2,7 +2,7 @@
 
 A plugin for the [Micro](https://github.com/zyedidia/micro) terminal based editor to provide a markdown cheatsheet for the language you're editing.
 
-_This unofficial version contains bug fixes that were left unresolved/unpublished by the original source for over a year despite PRs being open._
+_This unofficial version was forked from v0.0.5 & contains bug fixes that were left unresolved/unpublished by the original source for over a year despite PRs being open._
 
 ## Usage
 
