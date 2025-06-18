@@ -1,4 +1,4 @@
-# micro-cheat (Unofficial)
+# micro-cheat (Unofficial Version)
 
 A plugin for the [Micro](https://github.com/zyedidia/micro) terminal based editor to provide a markdown cheatsheet for the language you're editing.
 
