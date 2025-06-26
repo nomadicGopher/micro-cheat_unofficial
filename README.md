@@ -34,8 +34,8 @@ Micro-cheat also provides a command 'cheat' that you can bind to any key or run 
 
 ## Installation
 
-$ cd $HOME/.config/micro/plug/  
-$ git clone https://github.com/nomadicGopher/micro-cheat
+`$ cd $HOME/.config/micro/plug/`  
+`$ git clone https://github.com/nomadicGopher/micro-cheat`
 
 ## Original Licenses
 
